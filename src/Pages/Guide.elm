@@ -29,4 +29,4 @@ page =
 
 view : Element Msg
 view =
-    text "ddo"
+    text "New test is live!"
